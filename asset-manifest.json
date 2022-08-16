@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/Milestone/static/css/main.8bca9d0a.css",
-    "main.js": "/Milestone/static/js/main.15643f68.js",
+    "main.css": "/Milestone/static/css/main.d117f5e6.css",
+    "main.js": "/Milestone/static/js/main.ac486ffd.js",
+    "static/media/covemarina.PNG": "/Milestone/static/media/covemarina.d447777a2633f509ff76.PNG",
+    "static/media/clc.PNG": "/Milestone/static/media/clc.67e403b85d6702ba34ce.PNG",
+    "static/media/alc-photo.PNG": "/Milestone/static/media/alc-photo.b573c8efe2a8ea8a3b61.PNG",
     "static/media/me-about-solo.jpg": "/Milestone/static/media/me-about-solo.2cf76861f37f6c53d2c9.jpg",
     "static/media/nasa-api.jpg": "/Milestone/static/media/nasa-api.aabf563a4a5f091daa0c.jpg",
     "static/media/coffee-shop.jpg": "/Milestone/static/media/coffee-shop.49936b5a412ae4d50c48.jpg",
     "static/media/me.jpg": "/Milestone/static/media/me.c4543399731e8985f661.jpg",
-    "static/media/NewJosephITResume.pdf": "/Milestone/static/media/NewJosephITResume.bd55fc800978b05a7b13.pdf",
+    "static/media/Piquero_Resume.pdf": "/Milestone/static/media/Piquero_Resume.64c2b759fa6b281cdee4.pdf",
     "static/media/devicetree.jpg": "/Milestone/static/media/devicetree.f8c9c51d1e0426ae9dc5.jpg",
     "static/media/online-store.jpg": "/Milestone/static/media/online-store.b6d8d3d3cc171a6dde43.jpg",
     "index.html": "/Milestone/index.html",
-    "main.8bca9d0a.css.map": "/Milestone/static/css/main.8bca9d0a.css.map",
-    "main.15643f68.js.map": "/Milestone/static/js/main.15643f68.js.map"
+    "main.d117f5e6.css.map": "/Milestone/static/css/main.d117f5e6.css.map",
+    "main.ac486ffd.js.map": "/Milestone/static/js/main.ac486ffd.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bca9d0a.css",
-    "static/js/main.15643f68.js"
+    "static/css/main.d117f5e6.css",
+    "static/js/main.ac486ffd.js"
   ]
 }
