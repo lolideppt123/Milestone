@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Milestone/static/css/main.fde14d19.css",
-    "main.js": "/Milestone/static/js/main.395ea12c.js",
+    "main.js": "/Milestone/static/js/main.0e9d4af1.js",
     "static/media/covemarina.PNG": "/Milestone/static/media/covemarina.d447777a2633f509ff76.PNG",
     "static/media/clc.PNG": "/Milestone/static/media/clc.67e403b85d6702ba34ce.PNG",
     "static/media/alc-photo.PNG": "/Milestone/static/media/alc-photo.b573c8efe2a8ea8a3b61.PNG",
@@ -13,10 +13,10 @@
     "static/media/online-store.jpg": "/Milestone/static/media/online-store.b6d8d3d3cc171a6dde43.jpg",
     "index.html": "/Milestone/index.html",
     "main.fde14d19.css.map": "/Milestone/static/css/main.fde14d19.css.map",
-    "main.395ea12c.js.map": "/Milestone/static/js/main.395ea12c.js.map"
+    "main.0e9d4af1.js.map": "/Milestone/static/js/main.0e9d4af1.js.map"
   },
   "entrypoints": [
     "static/css/main.fde14d19.css",
-    "static/js/main.395ea12c.js"
+    "static/js/main.0e9d4af1.js"
   ]
 }
